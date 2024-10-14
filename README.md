@@ -1,2 +1,3 @@
-# ic618
-IC619 Dockerfile
+# IC618 Dockerfile
+
+Run IC618 program in docker container includes virtuoso, spectre and calibre. 
